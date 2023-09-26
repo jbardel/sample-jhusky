@@ -5,6 +5,11 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
+        final int a = 4;
+        final int b = 6;
+
+        System.out.println(a+b);
+
         System.out.println("Hello World !");
     }
 }
