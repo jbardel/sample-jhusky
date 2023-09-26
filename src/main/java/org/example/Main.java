@@ -10,6 +10,11 @@ public class Main {
 
         System.out.println(a+b);
 
+        final int c = 12;
+        final int d = 6;
+
+        System.out.println(c*d);
+
         System.out.println("Hello World !");
     }
 }
